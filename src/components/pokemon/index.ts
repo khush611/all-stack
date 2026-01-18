@@ -1,0 +1,5 @@
+export { TypeBadge } from './TypeBadge'
+export { StatBar } from './StatBar'
+export { StatsHeader } from './StatsHeader'
+export { PokemonTable } from './PokemonTable'
+export { PokemonDetail } from './PokemonDetail'
